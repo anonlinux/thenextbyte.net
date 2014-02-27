@@ -1,0 +1,52 @@
+@media (min-width: 481px) and (max-width: 999px){
+
+#about{
+	width:95%;
+}
+#about div.right-colum{
+	clear:both;
+	width:100%;
+}
+
+	#container{
+		background:none;
+	}
+	#wrapper-nav{
+		position:static;
+		overflow:hidden;
+	}
+	#header{
+		width:100%;
+		margin:12px 0 0 0;
+	}
+	#header div.left-colum strong{
+		display:none;
+	}
+	
+	#quick-contact{
+		float:none;
+		background:#999;
+		text-align:center;
+	}
+	#header div.left-colum{
+		float:none;
+		clear:both;
+		margin:0 auto;
+		width:310px;
+		background-position:center 0;
+		position:static;
+	}
+	#header div.left-colum p {
+		color: #373737;
+		font-size: 26px;
+		margin: 0 auto;
+		padding-top: 37px;
+		text-align: center;
+		width: 217px;
+		position:static;
+	}
+	#footer{
+		display:none;
+	}
+	
+}

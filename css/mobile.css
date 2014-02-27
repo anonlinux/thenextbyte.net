@@ -1,0 +1,29 @@
+@media (max-width: 480px){
+
+
+#quick-contact{
+	display:none;
+}
+
+#wrapper-nav{
+	position:static;
+}
+
+
+#footer{
+	position:static;
+}
+#header div.left-colum{
+	width:100%;
+	background:none;
+	border:5px solid #333;
+	width:100%;
+	display:none;
+}
+
+#about div.right-colum{
+	clear:both;
+	width:100%;
+	text-align:center;
+}
+}
