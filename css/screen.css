@@ -662,7 +662,7 @@ img::-moz-selection {
 
 #quick-contact img {
   opacity: 0.7;
-  margin-top: 5px;
+  margin-top: 10px;
   margin-left: 10px;
   /* padding: 5px 0px 5px 10px; */
   height: 40px;
